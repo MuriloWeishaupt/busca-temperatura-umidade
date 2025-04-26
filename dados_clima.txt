@@ -1,0 +1,12 @@
+26/04/2025 12:43:39 - Temperatura: 24° - Umidade: 73%
+26/04/2025 12:43:46 - Temperatura: 24° - Umidade: 73%
+26/04/2025 12:43:53 - Temperatura: 24° - Umidade: 73%
+26/04/2025 12:54:34 - Temperatura: 24° - Umidade: 73%
+26/04/2025 12:55:02 - Temperatura: 24° - Umidade: 73%
+26/04/2025 12:55:16 - Temperatura: 24° - Umidade: 73%
+26/04/2025 12:55:23 - Temperatura: 24° - Umidade: 73%
+26/04/2025 12:57:12 - Temperatura: 24° - Umidade: 73%
+26/04/2025 13:02:01 - Temperatura: 24° - Umidade: 73%
+26/04/2025 13:02:06 - Temperatura: 24° - Umidade: 73%
+26/04/2025 13:02:10 - Temperatura: 24° - Umidade: 73%
+26/04/2025 13:02:15 - Temperatura: 24° - Umidade: 73%
