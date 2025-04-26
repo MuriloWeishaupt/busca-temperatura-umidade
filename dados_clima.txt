@@ -27,3 +27,8 @@
 26/04/2025 13:58:12 - Temperatura: 25° - Umidade: 67%
 26/04/2025 14:00:15 - Temperatura: 25° - Umidade: 67%
 26/04/2025 14:00:31 - Temperatura: 25° - Umidade: 67%
+26/04/2025 14:24:18 - Temperatura: 25° - Umidade: 67%
+26/04/2025 14:25:16 - Temperatura: 25° - Umidade: 67%
+26/04/2025 14:26:39 - Temperatura: 25° - Umidade: 67%
+26/04/2025 14:29:43 - Temperatura: 25° - Umidade: 65%
+26/04/2025 14:30:08 - Temperatura: 25° - Umidade: 65%
